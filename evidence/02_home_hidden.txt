@@ -1,0 +1,16 @@
+total 60
+drwxr-x--- 9 kashafnoor22 kashafnoor22 4096 Oct 16 06:38 .
+drwxr-xr-x 3 root         root         4096 Sep 15 15:10 ..
+-rw------- 1 kashafnoor22 kashafnoor22  381 Oct  5 12:18 .bash_history
+-rw-r--r-- 1 kashafnoor22 kashafnoor22  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 kashafnoor22 kashafnoor22 3771 Feb 13  2026 .bashrc
+drwx------ 2 kashafnoor22 kashafnoor22 4096 Sep 15 16:11 .cache
+-rw-rw-r-- 1 kashafnoor22 kashafnoor22  188 Oct 16 06:38 .gitconfig
+-rw-r--r-- 1 kashafnoor22 kashafnoor22  807 Feb 13  2026 .profile
+drwx------ 2 kashafnoor22 kashafnoor22 4096 Oct 16 06:36 .ssh
+drwxrwxr-x 3 kashafnoor22 kashafnoor22 4096 Oct  5 19:42 Assignment01
+drwxrwxr-x 3 kashafnoor22 kashafnoor22 4096 Oct  5 12:20 Gitea
+-rw-rw-r-- 1 kashafnoor22 kashafnoor22   45 Oct  5 13:03 README.md
+drwxrwxr-x 5 kashafnoor22 kashafnoor22 4096 Oct 16 06:40 lab05-linux
+drwxrwxr-x 2 kashafnoor22 kashafnoor22 4096 Sep 18 08:52 mylab
+drwxrwxr-x 3 kashafnoor22 kashafnoor22 4096 Oct  5 19:00 portfolio
